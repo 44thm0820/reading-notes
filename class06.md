@@ -76,6 +76,13 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_awa
 
 
 ## Code Samples
+```
+import axios from "axios";
+axios.get('/users')
+  .then(res => {
+    console.log(res.data);
+  });
+```
 
 ## Additional Resources
 https://markdownguide.org/cheat-sheet
