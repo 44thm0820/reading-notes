@@ -17,7 +17,7 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 #### Day 5 - February 18, 2022
 
-### Week 2 - February 21=25, 2022
+### Week 2 - February 21-25, 2022
 
 #### Day 6 - February 21, 2022
 
