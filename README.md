@@ -1,23 +1,243 @@
 # Reading Notes
 
-My repository on GitHub, where I can keep track of my observations and questions from the reading assignments throughout my course at [Code Fellows](https://www.codefellows.org/)
+My repository on GitHub, where I can keep track of my observations and questions from the reading assignments throughout my courses at [Code Fellows](https://www.codefellows.org/)
+
+## Code 401 - Advanced Software Development
+
+<details><summary>Course Description</summary>
+
+### Code 401 - Advanced Software Development in JavaScript 
 
 
-## Code 301 - Intermediate Software Development
+  - Students in this course further practice building full-stack applications. 
 
-### Week 1 - February 14-18, 2022
+  - The first four weeks, students further practice building back-end web applications with Node.js. 
 
-#### Day 1 - February 14, 2022
+  - During weeks six through nine, students further practice building web apps with modern front-end libraries and frameworks.
 
-#### Day 2 - February 15, 2022
+</details>
+<br>
+<details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
 
-#### Day 3 - February 16, 2022
+<details><summary>Day 1 - Monday, March 21, 2022</summary><blockquote>
 
-#### Day 4 - February 17, 2022
+~~~
+a
+b
+c
+~~~
 
-#### Day 5 - February 18, 2022
+</blockquote></details>
 
-### Week 2 - February 21-25, 2022
+<details><summary>Day 2 - Tuesday, March 22, 2022</summary><blockquote>
 
-#### Day 6 - February 21, 2022
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 3 - Wednesday, March 23, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 4 - Thursday, March 24, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 5 - Friday, March 25, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+</details>
+
+<!-- <br>
+<details><summary>Week 2 - March 21, 2022 to March 25, 2022</summary>
+
+<details><summary>Day 1 - March 21, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 2 - March 22, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 3 - March 23, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 4 - March 24, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 5 - March 25, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+</details> -->
+<!-- <br>
+
+
+<details><summary>Week 3 - March 21, 2022 to March 25, 2022</summary>
+
+<details><summary>Day 1 - March 21, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 2 - March 22, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 3 - March 23, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 4 - March 24, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 5 - March 25, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+</details> -->
+
+<!-- <br>
+
+
+<details><summary>Week 4 - March 21, 2022 to March 25, 2022</summary>
+
+<details><summary>Day 1 - March 21, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 2 - March 22, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 3 - March 23, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 4 - March 24, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+<details><summary>Day 5 - March 25, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details>
+
+</details> -->
+
+
 
