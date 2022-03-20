@@ -884,7 +884,7 @@ What is a module? another javascript file.
 What does the word ‘require’ do? look into another file to use a data structure not in your
 current file, offers modularity aka organization
 How do we bring another module into the file the we are working in? use the keyword 'require' with the filename the file resides and the variable or other data structure you need.
-What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default <name of class component> to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js.
+What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default `<name of class component>` to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js.
   </details>
 
   <details>
@@ -902,7 +902,7 @@ generate that call stack.
 top - this will be called first as a callstack like a pancake 2nd from top
 3rd from top
 
-1. What causes a Stack Overflow? when you put too much on a stack - where computer runs out of memory
+What causes a Stack Overflow? when you put too much on a stack - where computer runs out of memory
 JavaScript error messages (https://codeburst.io/javascript-error-messages-debugging- d23f84f0ae7c)
 
 What is a ‘refrence error’? using a variable not yet declared
