@@ -868,6 +868,9 @@ How practical is knowing regex javascript nowadays as a software engineer
 
   <details>
     <summary>Day 9 - Thursday, February 24, 2022</summary>
+
+~~~
+
 What is functional programming? A programming paradigm - a style of building the structure and elements of computer programs - that treats computation as the evaluation of math functions and avoids changing-state and mutable data. Different from object-oriented programming
 
 What is a pure function and how do we know if something is a pure function? Pure functions give the same output every time. two signs it is a pure function: 1) returns the same result given the same arguments; this concept is also known as deterministic 2) does not cause observable side effects
@@ -885,10 +888,16 @@ What does the word ‘require’ do? look into another file to use a data struct
 current file, offers modularity aka organization
 How do we bring another module into the file the we are working in? use the keyword 'require' with the filename the file resides and the variable or other data structure you need.
 What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default `<name of class component>` to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js.
+
+~~~
+
   </details>
 
   <details>
     <summary>Day 10 - Friday, February 25, 2022</summary>
+
+~~~
+
 What is a ‘call’? function invocation
 
 How many ‘calls’ can happen at once? if synchronous, one at a time
@@ -921,8 +930,9 @@ Things I want to know more about,
 
 how to use debugger not only in chrome but also other popular browsers like safari and firefox
 
-  </details>
+~~~
 
+  </details>
 </details>
 
 <details>
@@ -932,6 +942,9 @@ how to use debugger not only in chrome but also other popular browsers like safa
 
   <details>
     <summary>Day 11 - Monday, February 28, 2022</summary>
+
+~~~
+
 Reading
 nosql vs sql (Links to an external site.)
 Fill in the chart below with five differences between SQL and NoSQL databases:
@@ -968,10 +981,15 @@ Which is more flexible - SQL or MongoDB? and why. depends. sql is more flexible 
 What is the disadvantage of a NoSQL database? slower transactions than a sql database
 what i want to learn more about: more examples on how to choose between nosql and sql for a situation. the readings and videos do not go into many examples.
 
+~~~
 
   </details>
+
   <details>
     <summary>Day 12 - Tuesday, March 1, 2022</summary>
+
+~~~
+
 Readings: CRUD
 Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
@@ -1021,9 +1039,14 @@ Grading Rubric
 what i want to learn more about:
 
   where is the working link to the second required reading/viewing on youtube?
+
+~~~
+
   </details>
   <details>
     <summary>Day 13 - Wednesday, March 2, 2022</summary>
+
+~~~
 Reading
 Consider the history: That Time When Women Stopped Coding (Links to an external site.)
 
@@ -1037,10 +1060,16 @@ Ask the question: Why diversity matters to your tech company (Links to an extern
 When are diversity efforts most successful? when ceos and other leaders support it
 Why do diverse companies perform better? diverse teams are smarter and more creative than homogeneous ones
 Give an example of how a diverse company can serve a diverse user base or vise-versa. Pinterest reports successes when their diverse teams reflect their diverse user base. Youtube reported increased errors when their developer team building the ios app were almost entirely right-handed.
+
+~~~
+
   </details>
 
   <details>
     <summary>Day 15 - Friday, March 4, 2022</summary>
+
+~~~
+
 Reading
 What is OAuth (Links to an external site.)
 
@@ -1082,6 +1111,9 @@ What is Implicit Flow with Form Post?
 What is Client Credentials Flow?
 What is Device Authorization Flow?
 What is Resource Owner Password Flow?
+
+~~~
+
   </details>
 
 </details>
