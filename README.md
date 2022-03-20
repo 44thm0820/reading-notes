@@ -733,6 +733,7 @@ https://markdownguide.org/cheat-sheet (Links to an external site.)
 I want review async/await and axios after reading the docs from hyperlinks above
 I want to make my own app using locationiq for fun.
   </details>
+
   <details>
     <summary>Day 7 - Tuesday, February 22, 2022</summary>
 Readings: REST
@@ -781,8 +782,10 @@ Things I want to know more about
 
 -what other popular apis can i consider using to get more practice using APIs?
   </details>
+
   <details>
     <summary>Day 8 - Wednesday, February 23, 2022</summary>
+<p>
 What does REST stand for? Representational State Transfer
 REST APIs are designed around a ____. resources, which are any kind of any object, data, or service that can be accessed by the client.
 What is an identifer of a resource? Give an example. URI, an identifier, is what a resource has to allow the resource to be uniquely identified. An example of a URI is https://adventure-works.com/orders/1 (Links to an external site.) 
@@ -810,7 +813,8 @@ How would you match a phone number from your city using RegEx? My city's area co
 /^?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/
 
 https://www.abstractapi.com/guides/validate-phone-number-javascript (Links to an external site.)
-
+</p>
+<p>
 ^ asserts position at start of the string
 \(
  matches the character ( 
@@ -851,15 +855,17 @@ Match a single character present in the list below
 [0-9]
 {4} matches the previous token exactly 4 times
 0-9 matches a single character in the range between 0 (index 48) and 9 (index 57) (case sensitive)
-$ asserts position at the end of the string, or before the line terminator right at the end of the string (if any)
- 
+\$ asserts position at the end of the string, or before the line terminator right at the end of the string (if any)
+ </p>
 
 Regex Tutorial (Links to an external site.)
 Regex 101 (Links to an external site.)
 Things I want to know more about
 
 How practical is knowing regex javascript nowadays as a software engineer
+
   </details>
+
   <details>
     <summary>Day 9 - Thursday, February 24, 2022</summary>
 What is functional programming? A programming paradigm - a style of building the structure and elements of computer programs - that treats computation as the evaluation of math functions and avoids changing-state and mutable data. Different from object-oriented programming
@@ -880,6 +886,7 @@ current file, offers modularity aka organization
 How do we bring another module into the file the we are working in? use the keyword 'require' with the filename the file resides and the variable or other data structure you need.
 What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default <name of class component> to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js.
   </details>
+
   <details>
     <summary>Day 10 - Friday, February 25, 2022</summary>
 What is a ‘call’? function invocation
