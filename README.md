@@ -8,7 +8,6 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 - Code 401 - Advanced Software Development in JavaScript 
 
-
   - Students in this course further practice building full-stack applications. 
 
   - The first four weeks, students further practice building back-end web applications with Node.js. 
@@ -16,20 +15,28 @@ My repository on GitHub, where I can keep track of my observations and questions
   - During weeks six through nine, students further practice building web apps with modern front-end libraries and frameworks.
 
 </details>
-<br>
 <details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
 
 <details><summary>Day Template</summary>
-<p>
 
 ### My reading notes
 
-#### Indenting paragraphs cant be done in markdown
+    insert code block here - more than three space indent
+
+  now you can also add inline code formatting ``console.log('hello')``
+
+  here you can type normal paragraph text.
+
+###### Indenting paragraphs cant be done in markdown
 
     The quick brown fox jumped
+
 over the lazy dog. Now is the time
+
 for all good men to serve their
+
 country. Note that more than three leading spaces creates a codeblock 
+
 automatically.
 
   Lorem ipsum whatever and then
@@ -53,7 +60,6 @@ c
   console.log('Hello world');
 ```
 
-</p>
 </details>
 
 <details><summary>Day 0 - Sunday, March 20, 2022</summary>
