@@ -874,9 +874,9 @@ How practical is knowing regex javascript nowadays as a software engineer
   <details>
     <summary>Day 9 - Thursday, February 24, 2022</summary>
 
-~~~
 
-What is functional programming? A programming paradigm - a style of building the structure and elements of computer programs - that treats computation as the evaluation of math functions and avoids changing-state and mutable data. Different from object-oriented programming
+test
+<!-- What is functional programming? A programming paradigm - a style of building the structure and elements of computer programs - that treats computation as the evaluation of math functions and avoids changing-state and mutable data. Different from object-oriented programming
 
 What is a pure function and how do we know if something is a pure function? Pure functions give the same output every time. two signs it is a pure function: 1) returns the same result given the same arguments; this concept is also known as deterministic 2) does not cause observable side effects
 
@@ -892,9 +892,7 @@ What is a module? another javascript file.
 What does the word ‘require’ do? look into another file to use a data structure not in your
 current file, offers modularity aka organization
 How do we bring another module into the file the we are working in? use the keyword 'require' with the filename the file resides and the variable or other data structure you need.
-What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default `<name of class component>` to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js.
-
-~~~
+What do we have to do to make a module available? have the line module.exports = the data structure you want made available.  in the youtube video, the function counter is made available from the file count.js by having a line in the bottom of the code in count.js saying module.exports = counter;  This process is similar to what we have being doing in react, where we add the line export default `<name of class component>` to the bottom of the file that declares the class component.  For example Main.js file has the class component Main declared and defined, and the last line is written as export default Main; which allows this Main class component module to be made available by another file.  App.js which uses the Main class component, makes Main's class component declaration available to App.js by writing import Main from './Main.js' in the beginning of the file of App.js. -->
 
   </details>
 
