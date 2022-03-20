@@ -6,7 +6,7 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 <details><summary>Course Description</summary>
 
-### Code 401 - Advanced Software Development in JavaScript 
+- Code 401 - Advanced Software Development in JavaScript 
 
 
   - Students in this course further practice building full-stack applications. 
@@ -19,7 +19,27 @@ My repository on GitHub, where I can keep track of my observations and questions
 <br>
 <details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
 
-<details><summary>Day 1 - Monday, March 21, 2022</summary><blockquote>
+<details><summary>Day Template</summary>
+<p>
+
+### My reading notes
+
+#### Indenting paragraphs cant be done in markdown
+
+    The quick brown fox jumped
+over the lazy dog. Now is the time
+for all good men to serve their
+country. Note that more than three leading spaces creates a codeblock 
+automatically.
+
+  Lorem ipsum whatever and then
+what...
+
+  Refer to https://github.github.com/gfm/#example-192 
+for reference on how indentation is ignored in a paragraph in 
+markdown.
+
+#### My codeblock using tildes
 
 ~~~
 a
@@ -27,49 +47,100 @@ b
 c
 ~~~
 
-</blockquote></details>
+#### My alternate codeblock using backticks
 
-<details><summary>Day 2 - Tuesday, March 22, 2022</summary><blockquote>
+``` javascript
+  console.log('Hello world');
+```
 
-~~~
-a
-b
-c
-~~~
-
-</blockquote></details>
-
-<details><summary>Day 3 - Wednesday, March 23, 2022</summary><blockquote>
-
-~~~
-a
-b
-c
-~~~
-
-</blockquote></details>
-
-<details><summary>Day 4 - Thursday, March 24, 2022</summary><blockquote>
-
-~~~
-a
-b
-c
-~~~
-
-</blockquote></details>
-
-<details><summary>Day 5 - Friday, March 25, 2022</summary><blockquote>
-
-~~~
-a
-b
-c
-~~~
-
-</blockquote></details>
-
+</p>
 </details>
+
+<details><summary>Day 0 - Sunday, March 20, 2022</summary>
+<p>
+
+### My reading notes
+
+#### My codeblock using tildes
+
+~~~
+a
+b
+c
+~~~
+
+#### My alternate codeblock using backticks
+
+``` javascript
+  console.log('Hello world');
+```
+
+</p>
+</details>
+
+<details><summary>Day 1 - Monday, March 21, 2022</summary>
+<p>
+
+### My reading notes
+
+#### My codeblock using tildes
+
+~~~
+a
+b
+c
+~~~
+
+#### My alternate codeblock using backticks
+
+``` javascript
+  console.log('Hello world');
+```
+
+</p>
+</details>
+
+<!-- <details><summary>Day 2 - Tuesday, March 22, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details> -->
+
+<!-- <details><summary>Day 3 - Wednesday, March 23, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details> -->
+
+<!-- <details><summary>Day 4 - Thursday, March 24, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details> -->
+
+<!-- <details><summary>Day 5 - Friday, March 25, 2022</summary><blockquote>
+
+~~~
+a
+b
+c
+~~~
+
+</blockquote></details> 
+
+</details> -->
 
 <!-- <br>
 <details><summary>Week 2 - March 21, 2022 to March 25, 2022</summary>
