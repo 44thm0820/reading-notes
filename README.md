@@ -855,7 +855,7 @@ Match a single character present in the list below
 [0-9]
 {4} matches the previous token exactly 4 times
 0-9 matches a single character in the range between 0 (index 48) and 9 (index 57) (case sensitive)
-\$ asserts position at the end of the string, or before the line terminator right at the end of the string (if any)
+``$`` asserts position at the end of the string, or before the line terminator right at the end of the string (if any)
  </p>
 
 Regex Tutorial (Links to an external site.)
@@ -920,7 +920,6 @@ What does the word ‘debugger’ do in your code? help you find 'bugs' aka erro
 Things I want to know more about,
 
 how to use debugger not only in chrome but also other popular browsers like safari and firefox
-
 
   </details>
 
