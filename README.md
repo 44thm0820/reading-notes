@@ -785,6 +785,9 @@ Things I want to know more about
 
   <details>
     <summary>Day 8 - Wednesday, February 23, 2022</summary>
+
+~~~
+
 <p>
 What does REST stand for? Representational State Transfer
 REST APIs are designed around a ____. resources, which are any kind of any object, data, or service that can be accessed by the client.
@@ -863,6 +866,8 @@ Regex 101 (Links to an external site.)
 Things I want to know more about
 
 How practical is knowing regex javascript nowadays as a software engineer
+
+~~~
 
   </details>
 
