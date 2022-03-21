@@ -5,6 +5,8 @@ My repository on GitHub, where I can keep track of my observations and questions
 <br>
 ## Code 401 - Advanced Software Development
 
+
+
 <details><summary>Course Description - March 21, 2022 to May 20, 2022</summary>
 
 - Code 401 - Advanced Software Development in JavaScript 
@@ -17,6 +19,7 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 </details>
 
+[Reading Notes March 20, 2022] (https://github.com/44thm0820/reading-notes/blob/main/401/due2022MAR20/getreadyfor401.md)
 
 <details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
   <details><summary>Day 1 - Monday, March 21, 2022</summary>
