@@ -20,7 +20,7 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 <details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
   <details><summary>Day 1 - Monday, March 21, 2022</summary>
-
+  [Reading Notes March 20, 2022] (./401/due2022MAR20/getreadyfor401.md)
 
   ### My reading notes
 
