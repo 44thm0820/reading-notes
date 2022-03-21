@@ -95,11 +95,39 @@ FM 5-0 The Operations Process (2010) Department of the Army, US
 
 Seems 5 Whys is cited in the US Army Red Team Handbook page 81 https://usacac.army.mil/sites/default/files/documents/ufmcs/The_Red_Team_Handbook.pdf 
 
+The handbook mentions the 5 Whys is often used as part of the Lean Six Sigma process.
+
 #### Watch these videos
 
 - [ ] [what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+A 26 minute 52 second video on youtube presented at jsconf.eu September 13-14, 2014, by Philip Roberts, a non-programmer.
+
+He answers the question of the title of the talk "what is the event loop", 14 minutes into the 26minute presentation.  
+
+He says that the event loop has the job of looking at the stack and looking at the task queue. If the stack is empty, the event loop takes the first thing on the task queue, and pushes it onto the stack, which gets effectively gets run by the stack.
+
+He further mentions later in the presentation that the event loop also has the job of not only looking at the queue, but more specifically what type of queue, as there is a render queue, and there is a callback queue.  A render can have the side effect of getting delayed if there is too much synchronous code being run (for example a while loop for half a second).  A render queue does however not have the problem of delay when callbacks get added onto the callback queue, because the event loop gives the render queue higher priority over the callback queue when the event loop sees the stack is empty.
 
 
 - [ ] [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
+
+This video is a ted talk 15 minutes long. 
+
+Mark Rober the presenter makes one point:
+
+The trick of learning more and having more success is finding the right way to frame the learning process(reference bookmark 2:30 of 15:08 video). Don't get discouraged at smaller failures towards the longer goal. Just continue to work rapidly until you see failures turn into successes incrementally to eventually reach the desired long goal.
+
+When referring to Super Mario Bros the video game, the same point applies: in order to win the game, is not focus so much on how you got there or how many lives you lost or how many points you gained, but to focus on rescuing the princess.  That is what the presenter and his friends adapted to doing in order to learn more and have more success.
+
+He used examples from his life by building painstakingly variations on popular toys and games that allowed the user to win more and have more fun, that won him fame including a demonstration on Jimmy Kimmel's late night talk show with his dartboard that always finds the bullseye for a user that throws errantly at the board.
+
+His main point was defining what he called "The Super Mario Effect", as reiterated 14:33 minutes into the video:
+
+The Super Mario Effect = Shifting the focus from falling into pits to saving the princess, to stick with a task and learn more.
+
+"By shifting your focus to the princess, and treating your life's challenges like video games, you can trick your brain and and actually learn more and see more success" 
+  - Mark Rober, former NASA engineer
+
+  14:55 into the 15:08 youtube video
 
