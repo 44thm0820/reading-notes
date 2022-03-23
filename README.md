@@ -5,9 +5,10 @@ My repository on GitHub, where I can keep track of my observations and questions
 <br>
 ## Code 401 - Advanced Software Development
 
+## Day 2 - Tuesday, March 22, 2022
+  [Reading Notes March 22, 2022] (https://github.com/44thm0820/reading-notes/blob/main/401/due2022MAR22/read-class02-express.md)
 
-
-<details><summary>Course Description - March 21, 2022 to May 20, 2022</summary>
+Course Description - March 21, 2022 to May 20, 2022</summary>
 
 - Code 401 - Advanced Software Development in JavaScript 
 
@@ -23,24 +24,14 @@ My repository on GitHub, where I can keep track of my observations and questions
 
 [prep-intro-to-sql] (https://github.com/44thm0820/reading-notes/blob/main/401/due2022MAR20/prep-intro-to-sql.md)
 <details><summary>Week 1 - March 21, 2022 to March 25, 2022</summary>
-  <details><summary>Day 1 - Monday, March 21, 2022</summary>
+  <details><summary>Day 0 - Sunday, March 20, 2022</summary>
   [Reading Notes March 20, 2022] (https://github.com/44thm0820/reading-notes/blob/main/401/due2022MAR20/getreadyfor401.md)
-
-  ### My reading notes
-
-  #### My codeblock using tildes
-
-  ~~~
-  a
-  b
-  c
-  ~~~
-
-  #### My alternate codeblock using backticks
-
-  ``` javascript
-    console.log('Hello world');
-  ```
+  </details>
+  <details><summary>Day 1 - Monday, March 21, 2022</summary>
+  [Reading Notes March 21, 2022] 
+  </details>
+  <details><summary>Day 2 - Tuesday, March 22, 2022</summary>
+  [Reading Notes March 22, 2022] (https://github.com/44thm0820/reading-notes/blob/main/401/due2022MAR22/read-class02-express.md)
   </details>
 </details>
 
