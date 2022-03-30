@@ -29,7 +29,7 @@ repetitive info compared to the youtube clip.
 
 [Are JWTs secure? stack overflow](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 
-
+The gist it seems of this stack overflow article is like anything, nothing is 100% secure. But relatively speaking, the JWT concept allows a higher level of protection than most alternatives.
 
 ### Bookmark and Review
 
